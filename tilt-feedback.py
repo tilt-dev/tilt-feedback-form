@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import webbrowser
 from urllib.parse import urlencode
 import subprocess
